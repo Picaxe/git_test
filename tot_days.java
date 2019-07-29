@@ -5,6 +5,7 @@ int main()
 {
     int feb,yr,t_days,t_hr,t_min,tsec,tot_days=0,month;
     printf("Enter the date:\n");
+    printf("Enter the date:\n");
     scanf("%d",&t_days);
     printf("Enter the month\n");
     scanf("%d",&month);
